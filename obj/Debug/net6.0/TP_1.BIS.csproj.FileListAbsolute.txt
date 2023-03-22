@@ -1,0 +1,15 @@
+Z:\2023\Progamacion\TP_1.BIS\bin\Debug\net6.0\TP_1.BIS.exe
+Z:\2023\Progamacion\TP_1.BIS\bin\Debug\net6.0\TP_1.BIS.deps.json
+Z:\2023\Progamacion\TP_1.BIS\bin\Debug\net6.0\TP_1.BIS.runtimeconfig.json
+Z:\2023\Progamacion\TP_1.BIS\bin\Debug\net6.0\TP_1.BIS.dll
+Z:\2023\Progamacion\TP_1.BIS\bin\Debug\net6.0\TP_1.BIS.pdb
+Z:\2023\Progamacion\TP_1.BIS\obj\Debug\net6.0\TP_1.BIS.csproj.AssemblyReference.cache
+Z:\2023\Progamacion\TP_1.BIS\obj\Debug\net6.0\TP_1.BIS.GeneratedMSBuildEditorConfig.editorconfig
+Z:\2023\Progamacion\TP_1.BIS\obj\Debug\net6.0\TP_1.BIS.AssemblyInfoInputs.cache
+Z:\2023\Progamacion\TP_1.BIS\obj\Debug\net6.0\TP_1.BIS.AssemblyInfo.cs
+Z:\2023\Progamacion\TP_1.BIS\obj\Debug\net6.0\TP_1.BIS.csproj.CoreCompileInputs.cache
+Z:\2023\Progamacion\TP_1.BIS\obj\Debug\net6.0\TP_1.BIS.dll
+Z:\2023\Progamacion\TP_1.BIS\obj\Debug\net6.0\refint\TP_1.BIS.dll
+Z:\2023\Progamacion\TP_1.BIS\obj\Debug\net6.0\TP_1.BIS.pdb
+Z:\2023\Progamacion\TP_1.BIS\obj\Debug\net6.0\TP_1.BIS.genruntimeconfig.cache
+Z:\2023\Progamacion\TP_1.BIS\obj\Debug\net6.0\ref\TP_1.BIS.dll
